@@ -3,7 +3,7 @@
 
 
 
-La idea es subír material que perimta un uso práctico de las herramientos de Data Sciece en Python.
+La idea es subír material que permita un uso práctico de las herramientos de Data Sciece con Python. De tal forma que se puedan usar para las competencias en Kaggle.  
 
 Por ahora **esta incluído**
 
@@ -11,14 +11,15 @@ Por ahora **esta incluído**
 
 - Seaborn 
 
-### Para el futuro:
-- [ ] Profundizar Seaborn 
-- [ ] Principalos gráficos en la práctica 
-- [ ]  Mejores métodos con pandas
-- [ ] Feature Ingeniering
-- [ ] Mejores Modelos Con Sickit Learn
-- [ ] Manejo de Time Series Models 
+### Work like a bitch:
+- [ ] Matplotlib (Tutorial)
+- [ ] Seaborn (Tutorial)
+- [ ] Mejores Prácticas en EDA 
+- [ ] Manipulación de DataFrames (Pandas)
+- [ ] Feature Ingeniering (Pandas)
+- [ ] Modelos Con Sickit Learn
+- [ ] Time Series Models 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://www.kaggle.com/static/images/host-home/host-home-recruiting.png?v=daa83a72816a)
 
 ---
