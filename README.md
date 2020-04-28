@@ -7,7 +7,8 @@ La idea es subír material que permita un uso práctico de las herramientos de D
 
 ---
 ## Objetivos:
-- [ ] Matplotlib (Tutorial)
+
+- [x] Matplotlib (Tutorial)
 - [ ] Seaborn (Tutorial)
 - [ ] Mejores Prácticas en EDA 
 - [ ] Manipulación de DataFrames (Pandas)
@@ -15,6 +16,6 @@ La idea es subír material que permita un uso práctico de las herramientos de D
 - [ ] Modelos Con Sickit Learn
 - [ ] Time Series Models 
 
-![Image of Yaktocat](https://miro.medium.com/max/1024/1*bQYZ7fp_wcjWFwpBbcRS-Q.png)
-
+![Image of Yaktocat](=250x)
+<img src="drawing.jpg" alt="drawing" width="200"/>
 ---
